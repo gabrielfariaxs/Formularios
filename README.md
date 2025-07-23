@@ -1,2 +1,2 @@
-<img width="852" height="607" alt="Formulario" src="https://github.com/user-attachments/assets/9c7fd7f6-87de-4b54-ad44-004e482f03b9" />
 
+<img width="329" height="608" alt="formulario" src="https://github.com/user-attachments/assets/cca61f86-a705-4044-b1d9-2030ba695af4" />
